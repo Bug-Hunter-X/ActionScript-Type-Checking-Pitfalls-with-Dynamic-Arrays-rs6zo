@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but important bug related to type checking in ActionScript when using dynamically typed arrays. The 'is' operator, while convenient, can produce unexpected results.  The bug.as file showcases the problem, while bugSolution.as provides the corrected version using 'typeof' for reliable type checking.
